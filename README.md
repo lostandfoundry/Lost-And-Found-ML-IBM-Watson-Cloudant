@@ -27,9 +27,12 @@ One function, or action, is triggered by changes (in this use case, an upload of
 
 Double-click `web/index.html`_
 
-> When using this option, we need to enable CORS - https://cloud.ibm.com/docs/services/Cloudant/api/cors.html#cors
+> We need to enable CORS - https://cloud.ibm.com/docs/services/Cloudant/api/cors.html#cors
 
 ![](docs/before-cors.png)
+
+## Usage
+Please go through the jupiter notebook file to understand the specifics of the product we have come up with, and at what stage we have implemented this idea. 
 
 # Links
 
