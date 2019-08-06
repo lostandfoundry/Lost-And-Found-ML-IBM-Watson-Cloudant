@@ -31,6 +31,10 @@ Double-click `web/index.html`_
 
 ![](docs/before-cors.png)
 
+OR, 
+
+run ```npm install``` followed by ```npm start``` in the cloned folder to view the running app in electron.
+
 ## Usage
 Please go through the jupiter notebook file to understand the specifics of the product we have come up with, and at what stage we have implemented this idea. 
 

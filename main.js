@@ -12,7 +12,6 @@ function createWindow () {
     height: 1080
   })
 
-  // and load the index.html of the app.
   mainWindow.loadFile('web/index.html')
 
   // Open the DevTools.
